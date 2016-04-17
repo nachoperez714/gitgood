@@ -1,0 +1,2 @@
+# gitgood
+my first repository
